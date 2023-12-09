@@ -63,6 +63,7 @@
 }
 
 .nav .middle-nav h1 {
+  text-align: center;
   font-family: 'Rubik', sans-serif;
   letter-spacing: 0.3vw;
 }
@@ -310,7 +311,7 @@
 }
 
 .section-3 .sub2-section3 .sub2-section3-box1 .image1 {
-  background-image: url(images/section3-image1.jpg);
+  background-image: url(images/gb\ d26am\ 2.jpg);
   background-size: cover;
   min-height: 90%;
   width: 100%;
@@ -355,7 +356,7 @@
 }
 
 .section-3 .sub2-section3 .sub2-section3-box2 .image2 {
-  background-image: url(images/section3-image2.jpg);
+  background-image: url(images/gb\ d15ad.jpg);
   background-size: cover;
   min-height: 90%;
   width: 100%;
@@ -400,8 +401,8 @@
 }
 
 .section-3 .sub2-section3 .sub2-section3-box3 .image3 {
-  background-image: url(images/section3-image3.jpg);
-  background-size: cover;
+  background-image: url(images/gb\ 21cf\ 2.jpg);
+  background-size: contain;
   min-height: 90%;
   width: 100%;
   height: 48vh;
@@ -490,8 +491,8 @@
 }
 
 .section-3 .sub2-section3 .sub2-section3-box5 .image5 {
-  background-image: url(images/section3-image5.jpg);
-  background-size: cover;
+  background-image: url(images/SP\ BBL2309.jpg);
+  background-size: contain;
   min-height: 90%;
   width: 100%;
   height: 48vh;
@@ -1404,7 +1405,7 @@
     text-align: center;
   }
   .section-3 .sub2-section3 .sub2-section3-box2 .image2 {
-    background-image: url(images/section3-image2.jpg);
+    background-image: url(images/gb\ d15ad.jpg);
     background-size: cover;
     min-height: 90%;
     width: 100%;
@@ -1447,8 +1448,8 @@
     text-align: center;
   }
   .section-3 .sub2-section3 .sub2-section3-box3 .image3 {
-    background-image: url(images/section3-image3.jpg);
-    background-size: cover;
+    background-image: url(images/gb\ 21cf\ 2.jpg);
+    background-size: contain;
     min-height: 90%;
     width: 100%;
     height: 48vh;
@@ -1533,8 +1534,8 @@
     text-align: center;
   }
   .section-3 .sub2-section3 .sub2-section3-box5 .image5 {
-    background-image: url(images/section3-image5.jpg);
-    background-size: cover;
+    background-image: url(images/SP\ BBL2309.jpg);
+    background-size: contain;
     min-height: 90%;
     width: 100%;
     height: 48vh;
@@ -2409,7 +2410,7 @@
     font-family: 'Rubik', sans-serif;
   }
   .section-3 .sub2-section3 .sub2-section3-box2 .image2 {
-    background-image: url(images/section3-image2.jpg);
+    background-image: url(images/gb\ d15ad.jpg);
     background-size: cover;
     min-height: 90%;
     width: 100%;
@@ -2448,8 +2449,8 @@
     font-family: 'Rubik', sans-serif;
   }
   .section-3 .sub2-section3 .sub2-section3-box3 .image3 {
-    background-image: url(images/section3-image3.jpg);
-    background-size: cover;
+    background-image: url(images/gb\ 21cf\ 2.jpg);
+    background-size: contain;
     min-height: 90%;
     width: 100%;
     height: 48vh;
@@ -2526,8 +2527,8 @@
     font-family: 'Rubik', sans-serif;
   }
   .section-3 .sub2-section3 .sub2-section3-box5 .image5 {
-    background-image: url(images/section3-image5.jpg);
-    background-size: cover;
+    background-image: url(images/SP\ BBL2309.jpg);
+    background-size: contain;
     min-height: 90%;
     width: 100%;
     height: 48vh;
