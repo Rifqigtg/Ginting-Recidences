@@ -446,7 +446,7 @@
 }
 
 .section-3 .sub2-section3 .sub2-section3-box4 .image4 {
-  background-image: url(images/section3-image4.jpg);
+  background-image: url(images/gb\ d15ac.jpg);
   background-size: cover;
   min-height: 90%;
   width: 100%;
@@ -536,8 +536,8 @@
 }
 
 .section-3 .sub2-section3 .sub2-section3-box6 .image6 {
-  background-image: url(images/section3-image6.jpg);
-  background-size: cover;
+  background-image: url(images/Marina\ Ancol.jpg);
+  background-size: contain;
   min-height: 90%;
   width: 100%;
   height: 48vh;
@@ -642,6 +642,7 @@
 
 .section-6 {
   height: 90vh;
+  color: #f5f1ed;
   background: beige;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -679,7 +680,7 @@
 }
 
 .section-6 .section6-image-of-person {
-  background-image: url(images/section6-image-of-person.jpg);
+  background-image: url(images/Liar.jpg);
   background-size: cover;
   min-height: 90%;
   width: 150%;
@@ -1491,7 +1492,7 @@
     text-align: center;
   }
   .section-3 .sub2-section3 .sub2-section3-box4 .image4 {
-    background-image: url(images/section3-image4.jpg);
+    background-image: url(images/gb\ d15ac.jpg);
     background-size: cover;
     min-height: 90%;
     width: 100%;
@@ -1577,8 +1578,8 @@
     text-align: center;
   }
   .section-3 .sub2-section3 .sub2-section3-box6 .image6 {
-    background-image: url(images/section3-image6.jpg);
-    background-size: cover;
+    background-image: url(images/Marina\ Ancol.jpg);
+    background-size: contain;
     min-height: 90%;
     width: 100%;
     height: 48vh;
@@ -2488,7 +2489,7 @@
     font-family: 'Rubik', sans-serif;
   }
   .section-3 .sub2-section3 .sub2-section3-box4 .image4 {
-    background-image: url(images/section3-image4.jpg);
+    background-image: url(images/gb\ d15ac.jpg);
     background-size: cover;
     min-height: 90%;
     width: 100%;
@@ -2566,8 +2567,8 @@
     font-family: 'Rubik', sans-serif;
   }
   .section-3 .sub2-section3 .sub2-section3-box6 .image6 {
-    background-image: url(images/section3-image6.jpg);
-    background-size: cover;
+    background-image: url(images/Marina\ Ancol.jpg);
+    background-size: contain;
     min-height: 90%;
     width: 100%;
     height: 48vh;
@@ -3108,5 +3109,6 @@
   .section-9 .sub2-section9 .sub2-section9-right-footer-1-checkbox-container p a {
     text-decoration: underline;
   }
+  
 }
 /*# sourceMappingURL=style.css.map */
