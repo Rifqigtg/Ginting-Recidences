@@ -582,7 +582,7 @@
 
 .section-4 {
   height: 40vh;
-  background: #101010;
+  background: black;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -820,17 +820,17 @@
 .section-8 .sub2-section8 {
   display: -ms-grid;
   display: grid;
-  gap: 80px 100px;
+  gap: 80px 58px;
   -ms-grid-columns: auto auto;
       grid-template-columns: auto auto;
   padding: 0px 100px 0px 100px;
 }
 
 .section-8 .sub2-section8 .sub2-section8-box1 .image1 {
-  background-image: url(images/section8-image1.jpg);
-  background-size: cover;
+  background-image: url(images/gading\ nias.png);
+  background-size: contain;
   min-height: 90%;
-  width: 100%;
+  width: 90%;
   height: 48vh;
   position: relative;
 }
@@ -874,7 +874,7 @@
 }
 
 .section-8 .sub2-section8 .sub3-section8-box2 .image1 {
-  background-image: url(images/section8-image2.jpg);
+  background-image: url(images/coming2.jpg);
   background-size: cover;
   min-height: 90%;
   width: 100%;
@@ -1034,6 +1034,14 @@
 }
 
 .section-9 .sub1-section9 .section-sub1-section9-left-footer-3 h4 {
+  font-size: 1.55vw;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  color: #f5f1ed;
+  padding: 0px 25px 10px 0px;
+}
+
+.section-9 .sub1-section9 .section-sub1-section9-left-footer-3 a {
   font-size: 1.55vw;
   font-family: 'Montserrat', sans-serif;
   font-weight: 100;
@@ -1620,9 +1628,11 @@
     font-family: 'Rubik', sans-serif;
     text-align: center;
   }
+
+  
   .section-4 {
     height: 40vh;
-    background: #101010;
+    background: #f5f1ed;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1827,16 +1837,16 @@
   .section-8 .sub2-section8 {
     display: -ms-grid;
     display: grid;
-    gap: 80px 100px;
+    gap: 80px 58px;
     -ms-grid-columns: auto;
         grid-template-columns: auto;
     padding: 15px 10px 0px 10px;
   }
   .section-8 .sub2-section8 .sub2-section8-box1 .image1 {
-    background-image: url(images/section8-image1.jpg);
-    background-size: cover;
+    background-image: url(images/gading\ nias.png);
+    background-size: contain;
     min-height: 90%;
-    width: 100%;
+    width: 90%;
     height: 48vh;
     position: relative;
   }
@@ -1875,7 +1885,7 @@
     text-align: center;
   }
   .section-8 .sub2-section8 .sub3-section8-box2 .image1 {
-    background-image: url(images/section8-image2.jpg);
+    background-image: url(images/coming2.jpg);
     background-size: cover;
     min-height: 90%;
     width: 100%;
@@ -2607,7 +2617,7 @@
   }
   .section-4 {
     height: 70vh;
-    background: #101010;
+    background:#f5f1ed;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -2820,16 +2830,16 @@
   .section-8 .sub2-section8 {
     display: -ms-grid;
     display: grid;
-    gap: 80px 100px;
+    gap: 80px 58px;
     -ms-grid-columns: auto auto;
         grid-template-columns: auto auto;
     padding: 0px 100px 0px 100px;
   }
   .section-8 .sub2-section8 .sub2-section8-box1 .image1 {
-    background-image: url(images/section8-image1.jpg);
-    background-size: cover;
+    background-image: url(images/gading\ nias.png);
+    background-size: contain;
     min-height: 90%;
-    width: 100%;
+    width: 90%;
     height: 48vh;
     position: relative;
   }
@@ -2867,7 +2877,7 @@
     font-family: 'Rubik', sans-serif;
   }
   .section-8 .sub2-section8 .sub3-section8-box2 .image1 {
-    background-image: url(images/section8-image2.jpg);
+    background-image: url(images/coming2.jpg);
     background-size: cover;
     min-height: 90%;
     width: 100%;
@@ -3110,5 +3120,41 @@
     text-decoration: underline;
   }
   
+  .section-10 {
+    height: 40vh;
+  background: #101010;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  }
+
+  .section-11 {
+    height: 40vh;
+  background: #101010;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+
+  }
 }
 /*# sourceMappingURL=style.css.map */
