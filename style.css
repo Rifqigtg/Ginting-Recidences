@@ -1632,7 +1632,7 @@
   
   .section-4 {
     height: 40vh;
-    background: #f5f1ed;
+    background: black;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1714,7 +1714,7 @@
     font-weight: bolder;
   }
   .section-6 .section6-image-of-person {
-    background-image: url(images/section6-image-of-person.jpg);
+    background-image: url(images/liar.jpg);
     background-size: cover;
     min-height: 10%;
     width: 90%;
@@ -2617,7 +2617,7 @@
   }
   .section-4 {
     height: 70vh;
-    background:#f5f1ed;
+    background: black;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -2703,7 +2703,7 @@
     font-weight: bolder;
   }
   .section-6 .section6-image-of-person {
-    background-image: url(images/section6-image-of-person.jpg);
+    background-image: url(images/liar.jpg);
     background-size: cover;
     min-height: 30%;
     width: 40%;
